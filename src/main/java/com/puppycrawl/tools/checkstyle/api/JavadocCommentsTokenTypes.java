@@ -928,11 +928,15 @@ public final class JavadocCommentsTokenTypes {
      * <p><b>Tree:</b></p>
      * <pre>{@code
 <<<<<<< HEAD
+<<<<<<< HEAD
      * |--LEADING_ASTERISK ->      *
 =======
      * JAVADOC_CONTENT -> JAVADOC_CONTENT
      * |--LEADING_ASTERISK -> *
 >>>>>>> be4c3c97da (Issue #17882: Update CUSTOM_INLINE_TAG of JavadocCommentsTokenTypes to new AST format)
+=======
+     * |--LEADING_ASTERISK ->      *
+>>>>>>> b599052b18 (minor: minor changes to pull request #18411)
      * |--TEXT ->  Example showing
      * |--JAVADOC_INLINE_TAG -> JAVADOC_INLINE_TAG
      * |   `--CUSTOM_INLINE_TAG -> CUSTOM_INLINE_TAG
@@ -942,10 +946,14 @@ public final class JavadocCommentsTokenTypes {
      * |       |   `--TEXT ->  This is a Custom Inline Tag
      * |       `--JAVADOC_INLINE_TAG_END -> }
 <<<<<<< HEAD
+<<<<<<< HEAD
      * |--TEXT -> .
 =======
      * `--TEXT -> .
 >>>>>>> be4c3c97da (Issue #17882: Update CUSTOM_INLINE_TAG of JavadocCommentsTokenTypes to new AST format)
+=======
+     * |--TEXT -> .
+>>>>>>> b599052b18 (minor: minor changes to pull request #18411)
      * }</pre>
      *
      * @see #JAVADOC_INLINE_TAG
