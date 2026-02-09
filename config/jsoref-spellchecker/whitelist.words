@@ -52,7 +52,6 @@ APRV
 Aqj
 ARCHITEW
 archunit
-arget
 Arial
 arity
 Arquillian
@@ -790,6 +789,7 @@ liberapay
 lifecycle
 linebreak
 linecolumn
+lineending
 linelength
 linkcheck
 linkplain
@@ -812,7 +812,6 @@ lte
 lucene
 lui
 luiframework
-LVL
 madbean
 magicnumber
 mailhost
@@ -922,7 +921,6 @@ needbraces
 NEGS
 Nejmeh
 neovim
-NEQ
 nestedfordepth
 nestedifdepth
 nestedtrydepth
